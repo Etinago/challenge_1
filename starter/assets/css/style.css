@@ -1,0 +1,140 @@
+/* Reset styles for all elements */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Set the background color for the body */
+body {
+    background-color: #d9dcd6;
+}
+
+/* Style the header section */
+.header {
+    padding: 20px;
+    background-color: #2a607c;
+    color: #ffffff;
+    display: flex; /* Added */
+    justify-content: space-between; /* Added */
+    align-items: center; /* Added */
+}
+
+/* Style the h1 element inside the header */
+.header h1 {
+    font-size: 48px;
+}
+
+/* Style the .seo span inside the h1 element */
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+/* Style the unordered list inside the header */
+.header ul {
+    list-style-type: none;
+    display: flex; /* Changed */
+}
+
+/* Style the list items inside the header */
+.header ul li {
+    margin-left: 25px;
+}
+
+/* Style the anchor tags */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Style paragraphs */
+p {
+    font-size: 16px;
+}
+
+/* Style the hero section */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Float the image to the left */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Float the image to the right */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Style the content section */
+.content {
+    width: 70%; /* Adjusted */
+    margin-left: 20px;
+}
+
+/* Style the benefits section */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    float: right;
+    width: 30%; /* Adjusted */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    color: #ffffff;
+}
+
+/* Style the benefit-lead, benefit-brand, and benefit-cost classes */
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
+    margin-bottom: 32px;
+}
+
+/* Style the headings inside benefit-lead, benefit-brand, and benefit-cost */
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Style the images inside benefit-lead, benefit-brand, and benefit-cost */
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Style the common section styles for SEO, Reputation Management, and Social Media Marketing */
+.section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Style the images inside the common sections */
+.section img {
+    max-height: 200px;
+}
+
+/* Style the headings inside the common sections */
+.section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Style the footer section */
+.footer
