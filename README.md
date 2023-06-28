@@ -6,7 +6,6 @@ This projects aims to address key element in web design i.e Accessibility to ens
 
 Through use the alt attribute for all img tags to provide alternative text that describes the image. This improves accessibility and helps users who can't see the images understand their content.
 
-
 ## Installation
 N/A
 
