@@ -8,6 +8,8 @@ Through use the alt attribute for all img tags to provide alternative text that 
 ## Improvements 
 Introduced alt tags on all images in html file to improve the site to be more accessible.
 
+Grouped classes together and with commomn properties once, to eliminate some redundancy and make the code more streamlined.
+
 
 ## Screenshot of site
 ![Alt text](image.png)
