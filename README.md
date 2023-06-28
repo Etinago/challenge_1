@@ -9,13 +9,17 @@ Through use the alt attribute for all img tags to provide alternative text that 
 Introduced alt tags on all images in html file to improve the site to be more accessible.
 
 
-
 ## Scrrenshot of site
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
 ## Installation
 N/A
+
+## Links
+
+Website: https://etinago.github.io/challenge_1/
+READMe: https://github.com/Etinago/challenge_1
 
 ## Credits
 N/A
