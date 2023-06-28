@@ -26,10 +26,11 @@ body {
     font-size: 48px;
 }
 
+/* here we chosose the colour of font and type*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Defining the design of the blocks*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
